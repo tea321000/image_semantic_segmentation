@@ -4,5 +4,6 @@ ckpt/
 vis/
 log/
 pretrained/
+.idea/
 decoder_epoch*.pth
 encoder_epoch*.pth
