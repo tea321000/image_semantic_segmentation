@@ -1,0 +1,14 @@
+certifi==2020.4.5.1
+future==0.18.2
+numpy==1.18.5
+Pillow==7.1.2
+PyQt5==5.15.0
+PyQt5-sip==12.8.0
+PyYAML==5.3.1
+scipy==1.4.1
+six==1.15.0
+torch==1.5.0+cu101
+torchvision==0.2.2.post3
+tqdm==4.46.1
+wincertstore==0.2
+yacs==0.1.7
