@@ -3,7 +3,7 @@
 
 使用方法：
 
-1.git clone https://github.com/tea321000/image_semantic_segmentation
+1.git clone https://github.com/tea321000/image_semantic_segmentation.git
 
 2.通过链接：https://pan.baidu.com/s/1xlROxeZ0EGqrn-4U2FgcqQ 
 提取码：b2gs
