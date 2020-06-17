@@ -4,4 +4,5 @@ ckpt/
 vis/
 log/
 pretrained/
-ade20k*/
+decoder_epoch*.pth
+encoder_epoch*.pth
