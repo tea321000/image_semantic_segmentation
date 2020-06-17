@@ -1,6 +1,8 @@
 # image_semantic_segmentation
 使用pyQt作为GUI框架的图像语义分割软件，支持mobilenet、resnet50、hrnet等8个模型
 
+演示效果见[bilibili](https://www.bilibili.com/video/BV1VA411i73M/)
+
 使用方法：
 
 1.git clone https://github.com/tea321000/image_semantic_segmentation.git
