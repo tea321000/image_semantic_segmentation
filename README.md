@@ -10,3 +10,12 @@
 3.pip install requirement.txt
 
 4.python gui_main.py运行GUI主程序
+
+语义分割效果：
+![](.assets/5.png)
+
+隐藏某些图层：
+![](.assets/6.png)
+
+保留某些图层：
+![](.assets/7.png)
