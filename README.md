@@ -7,7 +7,7 @@
 
 2.通过链接：https://pan.baidu.com/s/1xlROxeZ0EGqrn-4U2FgcqQ 
 提取码：b2gs
-下载模型放入与gui_main.py同一文件夹下
+或者 http://sceneparsing.csail.mit.edu/model/pytorch/ 下载模型放入与gui_main.py同一文件夹下
 
 3.pip install requirement.txt
 
